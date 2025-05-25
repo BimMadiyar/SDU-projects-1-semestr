@@ -1,0 +1,23 @@
+{
+  "1": {
+    "password": "$2b$12$1w0txOinH4wyTVZE7FX/Cu.wg3t0W3EEpkmPO5JnaJXXaRiDmynfK"
+  },
+  "bake": {
+    "password": "$2b$12$wnZgnjYrmQs8H9yox4cK9.2jRNpgB.xcyvLuGaFHw7uoPDTH.YrQi"
+  },
+  "baqdaulet": {
+    "password": "$2b$12$C4lpDU935aLjZlikva38j.m0xLlEe/BlXkJj.S2PNhePd85FNBn/K"
+  },
+  "baqd": {
+    "password": "$2b$12$K8MKxAedxN1VhdZIGHjzKOXPOeusBSmlswA92Gefdv172ERK17FBa"
+  },
+  "Username": {
+    "password": "$2b$12$Comlv1mtXRbVjXmjz10Y7uiRCCrHGqV4p0MBko8LtOKVYtjDz6FoW"
+  },
+  "galya": {
+    "password": "$2b$12$y4BnTh696VfAat70i3opROSEBZU6d4BZU5PgqzoMhdIANHp4cuD4C"
+  },
+  "madik": {
+    "password": "$2b$12$3.MJcHWXO9CcoMzcyFJLV.n664En5q3UTJAGrZYuMYmlQewWJeDzu"
+  }
+}
